@@ -1,68 +1,65 @@
+<!-- ======= PREMIUM DARK BANNER ======= -->
+
 <p align="center">
-  <h1 align="center">Krish Nagaral</h1>
-  <p align="center">
-    AI Systems Engineer • Applied Machine Learning • Intelligent Product Builder
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Krish%20Nagaral&fontColor=ffffff&fontSize=40&fontAlignY=50"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Blanq-one">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Applied+Machine+Learning;RAG+Architectures+%7C+Computer+Vision;Intelligent+Product+Builder" />
+  </a>
 </p>
 
 <p align="center">
   Designing and deploying production-grade AI systems across  
-  Computer Vision • NLP • RAG Architectures • Predictive Analytics • Multimodal Intelligence
+  Computer Vision • NLP • Retrieval-Augmented Generation • Predictive Modeling • Multimodal Intelligence
 </p>
 
 ---
 
-## Focus Areas
+## Focus Domains
 
-- Retrieval-Augmented Generation (RAG) Systems  
-- Large Language Model Applications  
-- Computer Vision & Medical Imaging  
-- Predictive Risk & Decision Systems  
-- Intelligent Assistants & AI Tooling  
+- Retrieval-Augmented Generation (RAG) Pipelines  
+- Large Language Model System Design  
+- Medical & Industrial Computer Vision  
+- Predictive Risk & Decision Intelligence  
+- Real-World AI Product Deployment  
 
 ---
 
-## Selected Work
+## Selected Systems
 
 ### LegalLens AI  
-Retrieval-augmented legal document analyzer enabling semantic case understanding and structured reasoning over large corpora.  
-`Python` `Transformers` `Vector DB` `FastAPI`
+Architected a retrieval-augmented legal reasoning system enabling semantic document understanding and structured inference over large legal corpora.  
+`Python` `Transformers` `Vector Databases` `FastAPI`
 
 ### RAG Resume Matcher  
-Embedding-based semantic alignment engine matching candidate resumes to job descriptions.  
-`LLMs` `Embeddings` `Vector Search` `Similarity Ranking`
+Built an embedding-driven semantic alignment engine for contextual resume-to-job matching using similarity ranking pipelines.  
+`LLMs` `Embedding Models` `Vector Search`
 
 ### PlantHealthAI  
-Deep learning-based plant disease detection system using convolutional neural networks for real-time image classification.  
-`TensorFlow` `CNN` `Computer Vision`
+Developed convolutional neural architectures for automated plant disease classification with real-time inference capabilities.  
+`TensorFlow` `CNN` `Image Classification`
 
 ### Pneumonia Detection AI  
-Medical imaging classifier for chest X-ray pneumonia detection using convolutional architectures.  
-`Deep Learning` `Medical Imaging`
+Designed deep learning models for chest X-ray pneumonia detection, emphasizing generalization and medical imaging robustness.  
+`Deep Learning` `Medical Vision`
 
 ### Credit Risk Scoring System  
-Supervised learning pipeline for predictive financial risk modeling and credit assessment.  
+Implemented supervised learning pipelines for financial risk modeling, optimizing classification metrics and model calibration.  
 `Scikit-learn` `Feature Engineering` `Model Evaluation`
 
 ---
 
-## System Thinking
+## Architecture Thinking
 
-Example RAG Architecture:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/rag-architecture-dark.png" width="750"/>
+</p>
 
-```
-User Query
-    ↓
-Embedding Model
-    ↓
-Vector Database
-    ↓
-Retriever
-    ↓
-LLM Reasoning Layer
-    ↓
-Structured Response
-```
+> Clean abstraction of a Retrieval-Augmented Generation pipeline integrating embedding models, vector storage, retrieval orchestration, and LLM reasoning.
+
+(Create an `assets` folder in your profile repo and upload a clean dark RAG architecture diagram. I can generate one for you next.)
 
 ---
 
@@ -71,19 +68,19 @@ Structured Response
 **Languages**  
 Python • TypeScript • JavaScript • SQL • C++
 
-**AI / ML**  
+**AI & ML**  
 PyTorch • TensorFlow • Transformers • Scikit-learn • Feature Engineering
 
-**Systems & Tools**  
-FastAPI • Next.js • Node.js • Git • Docker
+**Systems**  
+FastAPI • Next.js • Node.js • Docker • Git
 
 ---
 
-## GitHub Insights
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blanq-one&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blanq-one&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blanq-one&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&icon_color=58A6FF&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blanq-one&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160"/>
 </p>
 
 <p align="center">
@@ -92,16 +89,16 @@ FastAPI • Next.js • Node.js • Git • Docker
 
 ---
 
-## Currently Building
+## Currently Engineering
 
 - LegalLens AI — Intelligent Case Document Analyzer  
 - Multimodal Emotion Recognition Systems  
-- Applied AI for Real-World Deployment  
+- Applied AI Systems for Real-World Deployment  
 
 ---
 
-## Contact
+## Connect
 
 GitHub: https://github.com/Blanq-one  
-LinkedIn: (add your link)
+LinkedIn: (Add Link)
 
