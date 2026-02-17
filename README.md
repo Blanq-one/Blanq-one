@@ -1,12 +1,14 @@
 <!-- ============================================================ -->
-<!--  Krish Nagaral · v3 · Zero broken images                    -->
-<!--  Only external APIs + pure markdown. Everything renders.     -->
+<!--  Krish Nagaral · GitHub Profile · v3                        -->
+<!--  Custom PNG assets + external APIs. Zero broken images.      -->
 <!-- ============================================================ -->
 
+<!-- HEADER — custom PNG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Krish%20Nagaral&fontColor=e6edf3&fontSize=44&fontAlignY=32&desc=AI%20Systems%20Engineer&descColor=58A6FF&descSize=16&descAlignY=52&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/header-dark.png" width="100%"/>
 </p>
 
+<!-- TYPING ANIMATION — external API -->
 <p align="center">
   <a href="https://github.com/Blanq-one">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=25&lines=Computer+Vision+%C2%B7+RAG+Architectures+%C2%B7+LLM+Systems+%C2%B7+Predictive+Intelligence;MS+CS+%40+Northeastern+%C2%B7+3%C3%97+AWS+Certified+%C2%B7+Published+ML+Researcher;Building+intelligent+systems+that+reason%2C+retrieve%2C+and+respond" />
@@ -15,9 +17,13 @@
 
 <br/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/divider.png" width="480"/>
+</p>
 
 <br/>
+
+<!-- ==================== SYSTEMS ==================== -->
 
 ## ◈ Systems I've Built
 
@@ -100,68 +106,53 @@ Multimodal AI assistant integrating speech recognition, LLM reasoning, and tool-
 
 <br/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/divider.png" width="480"/>
+</p>
 
 <br/>
+
+<!-- ==================== ARCHITECTURE ==================== -->
 
 ## ◈ Architecture Thinking
 
 <br/>
 
-```
-                    ┌─────────────────────────────────────────────────────────────────┐
-                    │              RETRIEVAL-AUGMENTED GENERATION PIPELINE             │
-                    └─────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/rag-architecture-dark.png" width="820"/>
+</p>
 
-    ┌──────────────┐       ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
-    │              │       │              │       │              │       │              │
-    │  User Query  │──────▶│  Embedding   │──────▶│ Vector Store │──────▶│  Retriever   │
-    │              │       │    Model     │       │ FAISS/Pinecone│      │  Top-K Sim   │
-    └──────────────┘       └──────────────┘       └──────────────┘       └──────┬───────┘
-                                                                                │
-    ┌──────────────┐       ┌──────────────┐                                     │
-    │              │       │     LLM      │◀────────────────────────────────────┘
-    │  Structured  │◀──────│  Reasoning   │       context injection
-    │   Response   │       │   Layer      │       + re-ranking
-    └──────────────┘       └──────────────┘
-
-    ┌──────────────┐
-    │  Doc Corpus  │─ ─ ─ ─ ─ ─ ─ ─ ▶  chunking + embedding at ingest time
-    │ Legal/Medical│
-    └──────────────┘
-```
+<p align="center">
+  <sub>End-to-end RAG pipeline — document ingestion → embedding → vector retrieval → LLM reasoning → structured output</sub>
+</p>
 
 <br/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/divider.png" width="480"/>
+</p>
 
 <br/>
+
+<!-- ==================== DOMAIN FOCUS ==================== -->
 
 ## ◈ Domain Focus
 
 <br/>
 
-<table>
-<tr>
-<td>
-
-```
- Computer Vision & Medical Imaging    ████████████████████████████████████░░░  92%
- Retrieval-Augmented Generation       ██████████████████████████████░░░░░░░░░  78%
- NLP & Language Models                ████████████████████████████░░░░░░░░░░░  72%
- Predictive Modeling & Risk           ██████████████████████████░░░░░░░░░░░░░  68%
- Cloud & MLOps (3× AWS Certified)     ████████████████████████░░░░░░░░░░░░░░░  62%
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/domain-focus.png" width="820"/>
+</p>
 
 <br/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/divider.png" width="480"/>
+</p>
 
 <br/>
+
+<!-- ==================== STACK ==================== -->
 
 ## ◈ Technical Stack
 
@@ -193,9 +184,13 @@ Multimodal AI assistant integrating speech recognition, LLM reasoning, and tool-
 
 <br/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/divider.png" width="480"/>
+</p>
 
 <br/>
+
+<!-- ==================== CURRENTLY ==================== -->
 
 ## ◈ Currently
 
@@ -239,9 +234,5 @@ Multimodal AI assistant integrating speech recognition, LLM reasoning, and tool-
 <br/>
 
 <p align="center">
-  <sub>designed to reason · built to deploy</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Blanq-one/Blanq-one/main/assets/footer.png" width="380"/>
 </p>
