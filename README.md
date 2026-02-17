@@ -222,8 +222,8 @@ Multimodal AI assistant integrating speech recognition, LLM reasoning, and tool-
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Blanq-one">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" />
+  <a href="https://blanq-one.github.io/Krish_Nagaral/">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/krish-nagaral-7b9188238/">
